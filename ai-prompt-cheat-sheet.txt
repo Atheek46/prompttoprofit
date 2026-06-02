@@ -1,0 +1,77 @@
+========================================
+   AI PROMPT CHEAT SHEET
+   20+ Battle-Tested Prompts
+   For Freelance Success
+========================================
+
+📌 PROMPT #1: Upwork Proposal That Wins
+
+"Write a Upwork proposal for this job: [paste job description]. I have experience in [your skill]. Address the client's specific problem, offer a free sample, and end with a question. Keep it under 200 words. Sound confident."
+
+📌 PROMPT #2: Blog Post Writer
+
+"Write a blog post about [topic]. Target audience: [describe reader]. Tone: [friendly/expert/educational]. Length: 1500 words. Include: introduction, 3 main sections with subheadings, conclusion with call to action. Use short sentences and examples."
+
+📌 PROMPT #3: Social Media Captions (30 days)
+
+"Create 30 social media captions for [Instagram/Twitter/LinkedIn]. Topic: [your niche]. Each caption: under 200 characters, includes 1 emoji, ends with a question to boost engagement. Mix educational, entertaining, and promotional posts."
+
+📌 PROMPT #4: Client Email (Follow-up)
+
+"Write a follow-up email to a freelance client. I delivered [project name] 5 days ago. No response yet. Be polite, professional, and offer a small additional revision for free. Ask if they need anything else."
+
+📌 PROMPT #5: Portfolio Case Study
+
+"Write a case study for my portfolio. Project: [describe]. Problem the client had. Solution I provided. Results (use numbers: faster, cheaper, more sales). Keep it to 300 words. Sound results-driven."
+
+📌 PROMPT #6: Cold Outreach Message
+
+"Write a cold message to a business owner. I offer [your service]. Their business is [industry]. Offer one free suggestion to improve their [website/social media/sales copy]. End with low-pressure question. Keep it under 150 words."
+
+📌 PROMPT #7: Fiverr Gig Description
+
+"Write a Fiverr gig description for [your service]. Include: what I deliver, why choose me, what the client needs to provide, delivery time, and 3 FAQs. Sound professional and trustworthy. Use short bullet points."
+
+📌 PROMPT #8: Email Newsletter
+
+"Write a weekly newsletter for [industry/topic]. Subject line: [write 3 options]. Body: share 1 tip, 1 tool recommendation, 1 quick win. Add a personal story at the beginning. Keep it under 500 words. Friendly tone."
+
+📌 PROMPT #9: Client Questionnaire
+
+"Create a client onboarding questionnaire for a freelancer offering [your service]. Ask: project goals, target audience, brand voice examples, deadlines, budget range, and anything else they should share. 10 questions maximum."
+
+📌 PROMPT #10: Rate Increase Message (Existing Client)
+
+"Write a message to an existing client. I want to raise my rate from $[current] to $[new] per hour. Explain that I've delivered great results, have more experience now, and still offer priority support. Offer to keep current rate for 1 more month as transition."
+
+========================================
+   BONUS: Quick Setup For Best Results
+========================================
+
+✅ Always add: "Write in clear, simple English. Avoid fluff."
+✅ Always add: "Use short paragraphs. Max 3 sentences per paragraph."
+✅ For long content: "Think step by step before writing."
+✅ For revisions: "Make it more [persuasive/funny/professional]."
+
+========================================
+   HOW TO USE THESE PROMPTS
+========================================
+
+1. Copy any prompt above
+2. Replace [bracketed text] with your specific details
+3. Paste into Claude, ChatGPT, or any AI tool
+4. Edit the output slightly to sound like you
+5. Deliver to client and get paid!
+
+========================================
+   FREE BONUS RESOURCES
+========================================
+
+📺 Watch training: https://youtube.com/@PromptToProfit (coming soon)
+💬 Join Discord community: (link in website footer)
+📧 Questions? Reply to this email
+
+========================================
+   KEEP THIS CHEAT SHEET
+   Share with a friend who needs it!
+========================================
